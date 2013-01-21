@@ -1,0 +1,8 @@
+TweetAPI
+
+Features:
+    - Parses the twitter feed
+    - Looks for keywords provided
+    - Commits the tweets to Amazon SimpleDB
+
+Implementation is based on the classical example of multi-process synchroniztion problem, better known as the producer-consumer problem.
